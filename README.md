@@ -24,7 +24,3 @@ Eager to go deeper and learn more.
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![RSpec](https://img.shields.io/badge/-RSpec-red?430098?style=flat-square)
-![Semaphore](https://img.shields.io/badge/-Semaphore-grey?19A974?style=flat-square&logo=semaphore-ci)
-![Coveralls](https://img.shields.io/badge/-Coveralls-3F5767?style=flat-square&logo=coveralls)
-![Semantic UI](https://img.shields.io/badge/-Semantic%20UI-35bdb2?style=flat-square)
